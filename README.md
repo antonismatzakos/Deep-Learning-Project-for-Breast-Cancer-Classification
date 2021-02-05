@@ -4,8 +4,8 @@ Image Analysis for the Recognition of Breast Cancer through Machine Learning and
 
 Abstract
 Breast Cancer is one of the most common cancers among women that affects about 10% of women worldwide. 
-Although there are available treatments for bread cancer, the real challenge is to be properly detected it in early stages, a challenge that doctors and patients encounter 
-constantly. In this study, we examine the performance of different deep learning models and depth-wise convolutional neural networks in medical imaging
+Although there are available treatments for breast cancer, the real challenge is to be properly detected it in early stages, a challenge that doctors and patients encounter 
+constantly. In this study, I examine the performance of different deep learning models and depth-wise convolutional neural networks in medical imaging
 and assess their performance on breast cancer detection from ultrasounds and breast histopathology images. 
 Experimental results suggest that the proposed deep learning models can effectively recognize breast cancer from ultrasound and histopathology images. 
 The performance of the Convolutional Neural Network models reached 96.82% accuracy on ultrasounds, 88.23% on breast histology with cases of Invasive Ductal Carcinoma (IDC)
