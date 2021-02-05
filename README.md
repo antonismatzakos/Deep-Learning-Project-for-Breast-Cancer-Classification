@@ -28,7 +28,7 @@ System Specifications
 •	GPU Memory 4GB
 •	CUDA Version 10.0.130
 
-The code was written in Python (Python Version 3.6) and the environment was set up on VirtualEnv of python.
+The code was written in Python (Python Version 3.6) and the environment was set up on VirtualEnv of Python.
 
 
 
