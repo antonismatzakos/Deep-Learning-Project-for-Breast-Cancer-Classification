@@ -12,7 +12,25 @@ The performance of the Convolutional Neural Network models reached 96.82% accura
 and 91.04% on cancer-free tissue. The results are very promising and point out that deep-learning methods and 
 depth-wise convolutional neural networks are very assistive in the diagnosis of breast cancer from ultrasound and histopathology images. 
 
-Keywords — Deep Learning, Depth-Wise Convolutional Neural Nets, Breast Cancer, Medical Imaging, Machine Learning 
+Keywords — Deep Learning, Depth-Wise Convolutional Neural Nets, Breast Cancer, Medical Imaging, Machine Learning
+
+System Specifications & Python Frameworks
+For the implementation of this project I used a system with these specification below.
+
+System Specifications
+•	Processor Intel® Core™  i76700HQ CPU @ 2.60GHz, 4 cores, 8 Logical Processors
+•	OS  Microsoft Windows 10 
+•	Version - 10.0.17134 Build 17134
+•	System Type	x64-based PC
+•	Installed Physical Memory (RAM)	8.00 GB
+•	Total Physical Memory 7.89 GB
+•	GPU Nvidia GTX 950m
+•	GPU Memory 4GB
+•	CUDA Version 10.0.130
+
+The code was written in Python (Python Version 3.6) and the environment was set up on VirtualEnv of Python.
+
+
 
 
 
